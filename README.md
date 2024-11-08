@@ -25,7 +25,11 @@ Debit/Credit Cards
 Cash on Delivery (COD)
 
 
+
+
+
 ECR Office Car Booking Web Application:
+
 
 This project is a web application designed to facilitate efficient, secure, and user-friendly car booking for the ECR office. The application allows both customers and drivers to interact seamlessly with the system while ensuring that the ECR office can manage records and files securely.
 
