@@ -1,9 +1,10 @@
 # BA-Projects
 Food Delivery App
+
 This project is a food delivery app influenced by popular services like Swiggy and Zomato. The app offers a user-friendly experience, allowing users to browse and order food easily through a website or mobile app interface. It provides localized restaurant options, discounts, and convenient payment methods.
 
-Features
-User Registration & Login
+Features:
+User Registration & Login:
 
 New Users: Users can register a new account by providing their details.
 Returning Users: Users can log in to access their account and previous orders.
@@ -25,6 +26,7 @@ Cash on Delivery (COD)
 
 
 ECR Office Car Booking Web Application:
+
 This project is a web application designed to facilitate efficient, secure, and user-friendly car booking for the ECR office. The application allows both customers and drivers to interact seamlessly with the system while ensuring that the ECR office can manage records and files securely.
 
 Project Objectives:
